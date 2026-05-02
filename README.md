@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Danilo Ferreira**, currently studying at [42](https://www.42network.org/) and living in Portugal. I am passionate about Software Engineering and committed to building a strong foundation for a successful career in technology.
+I'm **Danilo Osorio Nunes Ferreira**, currently studying at [42](https://www.42network.org/) and living in Portugal. I am passionate about Software Engineering and committed to building a strong foundation for a successful career in technology.
 
 At 42, I’ve developed an in-depth understanding of problem-solving, system programming, and effective collaboration within challenging and innovative learning environments. I am driven by curiosity and dedicated to continuous improvement.
 
